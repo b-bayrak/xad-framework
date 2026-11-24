@@ -1,0 +1,13 @@
+detector,alpha,n_datasets,sliding_undercovers_gt3pts,aci_within_3pts,aci_misses_gt3pts,aci_over_gt3pts,aci_under_gt3pts
+conv_ae,0.05,10,10,10,,,
+conv_ae,0.1,10,10,9,smd,smd,
+conv_ae,0.15,10,10,9,smd,smd,
+conv_ae,0.2,10,10,9,smd,smd,
+lstm_ae,0.05,10,10,10,,,
+lstm_ae,0.1,10,10,9,smd,smd,
+lstm_ae,0.15,10,10,9,smd,smd,
+lstm_ae,0.2,10,10,9,smd,smd,
+lstm_vae,0.05,10,10,10,,,
+lstm_vae,0.1,10,10,9,smd,smd,
+lstm_vae,0.15,10,10,9,smd,smd,
+lstm_vae,0.2,10,10,9,smd,smd,

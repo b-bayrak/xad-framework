@@ -1,0 +1,2 @@
+dataset,detector,policy,alpha,gap,gap6,recall,recall_exp6
+psm,lstm_vae,aci,0.2,0.030004342162396825,0.02996092053842807,0.25279271824575916,0.2527099710384774

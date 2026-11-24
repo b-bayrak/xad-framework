@@ -1,0 +1,5 @@
+=== prepare exathlon  2026-10-14T08:56:27Z
+[exathlon] rows=127467 features=5 (dropped 15: ['4_jvm_heap_used_value', '4_jvm_heap_usage_value', '4_jvm_heap_max_value', '4_jvm_heap_init_value', '4_jvm_heap_committed_value', '4_jvm_direct_used_value', '4_jvm_direct_count_value', '4_jvm_direct_capacity_value', '4_jvm_PS-Scavenge_time_value', '4_jvm_PS-Scavenge_count_value', '4_jvm_PS-MarkSweep_time_value', '4_jvm_PS-MarkSweep_count_value', '4_executor_threadpool_maxPool_size_value', '4_executor_threadpool_currentPool_size_value', '4_executor_threadpool_activeTasks_value']) recordings=3 nan_filled=0 preset=seq50
+[exathlon]   train {'rows': 19287, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 1}
+[exathlon]   val   {'rows': 30661, 'anomalous_rows': 3569, 'anomaly_rate': 0.1164, 'recordings': 2}
+[exathlon]   test  {'rows': 77519, 'anomalous_rows': 10249, 'anomaly_rate': 0.13221, 'recordings': 1}

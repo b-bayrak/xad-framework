@@ -1,0 +1,5 @@
+=== prepare gecco  2026-10-14T08:56:27Z
+[gecco] rows=138377 features=9 (dropped 0: []) recordings=3 nan_filled=0 preset=seq50
+[gecco]   train {'rows': 22048, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 1}
+[gecco]   val   {'rows': 33216, 'anomalous_rows': 303, 'anomaly_rate': 0.00912, 'recordings': 2}
+[gecco]   test  {'rows': 83113, 'anomalous_rows': 1279, 'anomaly_rate': 0.01539, 'recordings': 1}

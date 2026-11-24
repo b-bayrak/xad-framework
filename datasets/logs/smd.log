@@ -1,0 +1,5 @@
+=== prepare smd  2026-10-14T08:56:27Z
+[smd] rows=696448 features=37 (dropped 1: ['feature_8']) recordings=37 nan_filled=0 preset=seq50
+[smd]   train {'rows': 349258, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 18}
+[smd]   val   {'rows': 90601, 'anomalous_rows': 232, 'anomaly_rate': 0.00256, 'recordings': 19}
+[smd]   test  {'rows': 256589, 'anomalous_rows': 14560, 'anomaly_rate': 0.05674, 'recordings': 18}

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or framework, please cite the accompanying paper."
+title: "XAD: Explainable Anomaly Detection Framework"
+abstract: >-
+  A modular framework for explainable time-series anomaly detection that
+  combines autoencoder-based detection, temporal-aware conformal prediction
+  for distribution-free confidence, multi-factor uncertainty decomposition,
+  and counterfactual explanation (GA-CE, DICE, PerCE).
+type: software
+authors:
+  - family-names: Bayrak
+    given-names: Betül
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+    email: betul.bayrak@ntnu.no
+  - family-names: Bach
+    given-names: Kerstin
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/b-bayrak/xad-framework"
+preferred-citation:
+  type: article
+  title: >-
+    What, How Confident, and Why: A Unified Framework for Explainable
+    Anomaly Detection through Uncertainty Decomposition and Counterfactual
+    Explanations
+  authors:
+    - family-names: Bayrak
+      given-names: Betül
+    - family-names: Bach
+      given-names: Kerstin
+  notes: "Submitted to Knowledge-Based Systems"
+  year: 2026

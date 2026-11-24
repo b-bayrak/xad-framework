@@ -1,0 +1,38 @@
+
+--- exp_1 vs exp_2 (alpha=0.05) ---
+  [OK] conv_ae (seed=42): Table1 coverage=0.492340 vs Table2 observed=0.492340 (diff=0.00e+00); Table1 cal_err=0.457660 vs Table2 cal_err=0.457660 (diff=0.00e+00)
+           accuracy=0.5057 vs coverage=0.4923 (gap=0.0134 - expected to be nonzero)
+  [OK] conv_ae (seed=43): Table1 coverage=0.511801 vs Table2 observed=0.511801 (diff=0.00e+00); Table1 cal_err=0.438199 vs Table2 cal_err=0.438199 (diff=0.00e+00)
+           accuracy=0.5300 vs coverage=0.5118 (gap=0.0182 - expected to be nonzero)
+  [OK] conv_ae (seed=44): Table1 coverage=0.509593 vs Table2 observed=0.509593 (diff=0.00e+00); Table1 cal_err=0.440407 vs Table2 cal_err=0.440407 (diff=0.00e+00)
+           accuracy=0.5219 vs coverage=0.5096 (gap=0.0123 - expected to be nonzero)
+  [OK] conv_ae (seed=45): Table1 coverage=0.508627 vs Table2 observed=0.508627 (diff=0.00e+00); Table1 cal_err=0.441373 vs Table2 cal_err=0.441373 (diff=0.00e+00)
+           accuracy=0.5200 vs coverage=0.5086 (gap=0.0114 - expected to be nonzero)
+  [OK] conv_ae (seed=46): Table1 coverage=0.473982 vs Table2 observed=0.473982 (diff=0.00e+00); Table1 cal_err=0.476018 vs Table2 cal_err=0.476018 (diff=0.00e+00)
+           accuracy=0.4913 vs coverage=0.4740 (gap=0.0173 - expected to be nonzero)
+  [OK] lstm_ae (seed=42): Table1 coverage=0.570600 vs Table2 observed=0.570600 (diff=0.00e+00); Table1 cal_err=0.379400 vs Table2 cal_err=0.379400 (diff=0.00e+00)
+           accuracy=0.5791 vs coverage=0.5706 (gap=0.0085 - expected to be nonzero)
+  [OK] lstm_ae (seed=43): Table1 coverage=0.527260 vs Table2 observed=0.527260 (diff=0.00e+00); Table1 cal_err=0.422740 vs Table2 cal_err=0.422740 (diff=0.00e+00)
+           accuracy=0.5418 vs coverage=0.5273 (gap=0.0145 - expected to be nonzero)
+  [OK] lstm_ae (seed=44): Table1 coverage=0.529193 vs Table2 observed=0.529193 (diff=0.00e+00); Table1 cal_err=0.420807 vs Table2 cal_err=0.420807 (diff=0.00e+00)
+           accuracy=0.5396 vs coverage=0.5292 (gap=0.0104 - expected to be nonzero)
+  [OK] lstm_ae (seed=45): Table1 coverage=0.490683 vs Table2 observed=0.490683 (diff=0.00e+00); Table1 cal_err=0.459317 vs Table2 cal_err=0.459317 (diff=0.00e+00)
+           accuracy=0.5034 vs coverage=0.4907 (gap=0.0128 - expected to be nonzero)
+  [OK] lstm_ae (seed=46): Table1 coverage=0.508213 vs Table2 observed=0.508213 (diff=0.00e+00); Table1 cal_err=0.441787 vs Table2 cal_err=0.441787 (diff=0.00e+00)
+           accuracy=0.5266 vs coverage=0.5082 (gap=0.0184 - expected to be nonzero)
+  [OK] lstm_vae (seed=42): Table1 coverage=0.539130 vs Table2 observed=0.539130 (diff=0.00e+00); Table1 cal_err=0.410870 vs Table2 cal_err=0.410870 (diff=0.00e+00)
+           accuracy=0.5486 vs coverage=0.5391 (gap=0.0095 - expected to be nonzero)
+  [OK] lstm_vae (seed=43): Table1 coverage=0.483506 vs Table2 observed=0.483506 (diff=0.00e+00); Table1 cal_err=0.466494 vs Table2 cal_err=0.466494 (diff=0.00e+00)
+           accuracy=0.4914 vs coverage=0.4835 (gap=0.0079 - expected to be nonzero)
+  [OK] lstm_vae (seed=44): Table1 coverage=0.479365 vs Table2 observed=0.479365 (diff=0.00e+00); Table1 cal_err=0.470635 vs Table2 cal_err=0.470635 (diff=0.00e+00)
+           accuracy=0.4985 vs coverage=0.4794 (gap=0.0192 - expected to be nonzero)
+  [OK] lstm_vae (seed=45): Table1 coverage=0.718427 vs Table2 observed=0.718427 (diff=0.00e+00); Table1 cal_err=0.231573 vs Table2 cal_err=0.231573 (diff=0.00e+00)
+           accuracy=0.7098 vs coverage=0.7184 (gap=0.0086 - expected to be nonzero)
+  [OK] lstm_vae (seed=46): Table1 coverage=0.588406 vs Table2 observed=0.588406 (diff=0.00e+00); Table1 cal_err=0.361594 vs Table2 cal_err=0.361594 (diff=0.00e+00)
+           accuracy=0.5948 vs coverage=0.5884 (gap=0.0064 - expected to be nonzero)
+
+[SKIP] GA-CE ablation vs exp_4 check: missing exp4 or exp5 CSV in runs/benchmark/results/threew_5seed_25694218
+
+------------------------------------------------------------
+ALL CHECKS PASSED
+------------------------------------------------------------

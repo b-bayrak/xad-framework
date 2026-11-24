@@ -1,0 +1,5 @@
+=== prepare ghl  2026-10-14T08:56:27Z
+[ghl] rows=2885151 features=16 (dropped 0: []) recordings=29 nan_filled=0 preset=seq100
+[ghl]   train {'rows': 1316110, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 14}
+[ghl]   val   {'rows': 415027, 'anomalous_rows': 863, 'anomaly_rate': 0.00208, 'recordings': 15}
+[ghl]   test  {'rows': 1154014, 'anomalous_rows': 15606, 'anomaly_rate': 0.01352, 'recordings': 14}

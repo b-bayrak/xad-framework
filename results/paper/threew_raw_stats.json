@@ -1,0 +1,6 @@
+{
+ "raw_points": 32872250,
+ "raw_anomalous_points": 14273708,
+ "raw_anomalous_share": 0.43421755432013326,
+ "note": "1 Hz raw REAL instances, class != 0, before resampling/truncation; computed by paper build helper"
+}

@@ -1,0 +1,21 @@
+=== prepare threew  2026-10-14T09:15:33Z
+[threew] physically implausible cells set to missing: 4394168 by column: {'ABER-CKP': 161538, 'P-JUS-CKP': 1295403, 'P-PDG': 305812, 'P-TPT': 24868, 'T-MON-CKP': 161538, 'T-PDG': 2445009}
+[threew] steady-state fault rows dropped (> 30 min after onset): 1341948
+[threew] 1119 real instances; columns kept by >=50% train coverage: 12/27; dropped low-coverage: ['ABER-CKGL', 'ABER-CKP', 'ESTADO-DHSV', 'ESTADO-M1', 'ESTADO-M2', 'ESTADO-SDV-GL', 'P-JUS-BS', 'P-JUS-CKP', 'P-MON-CKGL', 'P-MON-SDV-P', 'PT-P', 'QBS', 'T-JUS-CKP', 'T-MON-CKP', 'T-PDG']
+[threew] instances per event type x split:
+split  test  train  val
+event                  
+0       119    356  119
+1         1      2    1
+2         5     13    4
+3         7     19    6
+4        68    206   69
+5         2      7    2
+6         1      4    1
+7         7     22    7
+8         3      8    3
+9        12     34   11
+[threew] rows=1946360 features=12 (dropped 0: []) recordings=1119 nan_filled=7853975 preset=seq100
+[threew]   train {'rows': 1163126, 'anomalous_rows': 51802, 'anomaly_rate': 0.04454, 'recordings': 671}
+[threew]   val   {'rows': 388603, 'anomalous_rows': 16890, 'anomaly_rate': 0.04346, 'recordings': 223}
+[threew]   test  {'rows': 394631, 'anomalous_rows': 17281, 'anomaly_rate': 0.04379, 'recordings': 225}

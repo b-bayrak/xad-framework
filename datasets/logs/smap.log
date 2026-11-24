@@ -1,0 +1,6 @@
+=== prepare smap  2026-10-14T08:56:27Z
+[smap] skip entity SMAP_P-7: train or test file missing in the source
+[smap] rows=545523 features=24 (dropped 1: ['feature_17']) recordings=103 nan_filled=0 preset=seq50
+[smap]   train {'rows': 106679, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 51}
+[smap]   val   {'rows': 30684, 'anomalous_rows': 101, 'anomaly_rate': 0.00329, 'recordings': 52}
+[smap]   test  {'rows': 408160, 'anomalous_rows': 51269, 'anomaly_rate': 0.12561, 'recordings': 51}

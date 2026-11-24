@@ -1,0 +1,14 @@
+# Versions used for the paper (Python 3.10).
+# Install PyTorch with the CUDA build that matches your driver, e.g.
+#   pip install torch==2.3.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.3.1
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+deap==1.4.4
+tqdm>=4.62
+matplotlib>=3.8
+
+# Only for preparing the 3W dataset (parquet files)
+pyarrow>=14

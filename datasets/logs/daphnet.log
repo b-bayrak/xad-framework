@@ -1,0 +1,5 @@
+=== prepare daphnet  2026-10-14T08:56:27Z
+[daphnet] rows=754987 features=9 (dropped 0: []) recordings=53 nan_filled=0 preset=seq50
+[daphnet]   train {'rows': 110050, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 26}
+[daphnet]   val   {'rows': 31407, 'anomalous_rows': 2177, 'anomaly_rate': 0.06932, 'recordings': 27}
+[daphnet]   test  {'rows': 613530, 'anomalous_rows': 88146, 'anomaly_rate': 0.14367, 'recordings': 26}

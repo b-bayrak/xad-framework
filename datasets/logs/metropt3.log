@@ -1,0 +1,6 @@
+=== prepare metropt3  2026-10-14T08:56:27Z
+[metropt3] 275 sampling gaps > 5 min -> 276 contiguous recordings
+[metropt3] rows=1516948 features=15 (dropped 0: []) recordings=276 nan_filled=0 preset=seq100
+[metropt3]   train {'rows': 354060, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 57}
+[metropt3]   val   {'rows': 152843, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 21}
+[metropt3]   test  {'rows': 1010045, 'anomalous_rows': 29954, 'anomaly_rate': 0.02966, 'recordings': 199}

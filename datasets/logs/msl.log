@@ -1,0 +1,5 @@
+=== prepare msl  2026-10-14T09:20:17Z
+[msl] rows=130511 features=32 (dropped 23: ['feature_2', 'feature_3', 'feature_5', 'feature_9', 'feature_11', 'feature_19', 'feature_22', 'feature_23', 'feature_25', 'feature_26', 'feature_27', 'feature_31', 'feature_33', 'feature_35', 'feature_37', 'feature_38', 'feature_39', 'feature_41', 'feature_43', 'feature_45', 'feature_51', 'feature_52', 'feature_53']) recordings=53 nan_filled=0 preset=seq50
+[msl]   train {'rows': 46303, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 26}
+[msl]   val   {'rows': 12790, 'anomalous_rows': 101, 'anomaly_rate': 0.0079, 'recordings': 27}
+[msl]   test  {'rows': 71418, 'anomalous_rows': 7553, 'anomaly_rate': 0.10576, 'recordings': 26}

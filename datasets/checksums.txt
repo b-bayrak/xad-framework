@@ -1,0 +1,14 @@
+# md5 of prepared data, frozen 2026-10-14T09:08:05Z before any full run
+1f0d3d9547ece61a5387e28772b7582f  d4f501544dec9a7bb7ef4b3813578524  daphnet
+59530ef47a090d5e55bd27fc532441c2  5b2eb692b6517eaff91f5e251f5e0447  exathlon
+d898d3e07b014f3409084d1a198e9779  cf4d1f850a79ca64ecb513c5c30fae7c  gecco
+745bb6f848baf69b58cb12212c215761  c9e14ff8759aa67a271270a1536ed19e  ghl
+f37fdfa9a1eb0b287e31a9fc3cfd99b7  8671d7ab9c52ab20b76acb9269d9a7a6  metropt3
+24f54ee5574725a2b399e6ed67428211  03e1b3a8c9c0e771ca9288233d4f2bfc  psm
+9066cec22af5084cebc03cfa66638e30  01cfbc0419bd4dc0f67e29cbe5cd5a73  smap
+51e6cc0c5024542e18587e8b0e2dde72  385388e6d35e8f65627903086a25251d  smd
+5b541ed2345361ddb738a0e0a868a7cd  0f38c996f92cc6a47a630a10f7482103  threew
+# re-frozen 2026-10-14T09:16:32Z: threew re-prepared BEFORE any full run (smoke found sentinel/unit-error values, see AUDIT.md B8); last line per dataset is authoritative
+d1559faeea333c8fa37c881653a71ce8  e6d27f145857e5bf5802ded6ab31c5fd  threew
+# added 2026-10-14T09:20:38Z: msl (dataset #10, replaces pronto, AUDIT.md B9), before any full run
+06ba50f49f9480fd021b480f6735632f  d7efe2c120151dec6d5c90909e5c4708  msl

@@ -1,0 +1,6 @@
+[ok] exp1: 15 rows, 5 seed(s), 3 aggregated rows -> results/analysis/per_dataset/threew/aggregated/exp1_aggregated.csv
+[ok] exp2: 60 rows, 5 seed(s), 12 aggregated rows -> results/analysis/per_dataset/threew/aggregated/exp2_aggregated.csv
+[ok] exp3: 45 rows, 5 seed(s), 9 aggregated rows -> results/analysis/per_dataset/threew/aggregated/exp3_aggregated.csv
+[ok] exp4: 90 rows, 5 seed(s), 18 aggregated rows -> results/analysis/per_dataset/threew/aggregated/exp4_aggregated.csv
+[skip] no exp5_gace_ablation_*.csv under runs/benchmark/results/threew_5seed_25694218
+[ok] exp6_cp_ablation: 540 rows, 5 seed(s), 108 aggregated rows -> results/analysis/per_dataset/threew/aggregated/exp6_cp_ablation_aggregated.csv

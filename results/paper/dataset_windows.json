@@ -1,0 +1,122 @@
+{
+ "skab": {
+  "features": 8,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 2042,
+  "val_normal": 569,
+  "test_win": 795,
+  "test_rate": 0.42641509433962266
+ },
+ "swat": {
+  "features": 51,
+  "seq": 100,
+  "stride": 50,
+  "calib_window": 1000,
+  "train_win": 17299,
+  "val_normal": 5765,
+  "test_win": 5765,
+  "test_rate": 0.18941890719861232
+ },
+ "threew": {
+  "features": 12,
+  "seq": 100,
+  "stride": 50,
+  "calib_window": 1000,
+  "train_win": 21309,
+  "val_normal": 7136,
+  "test_win": 7544,
+  "test_rate": 0.039634146341463415
+ },
+ "ghl": {
+  "features": 16,
+  "seq": 100,
+  "stride": 50,
+  "calib_window": 1000,
+  "train_win": 26308,
+  "val_normal": 8266,
+  "test_win": 23066,
+  "test_rate": 0.015910864475851903
+ },
+ "metropt3": {
+  "features": 15,
+  "seq": 100,
+  "stride": 50,
+  "calib_window": 1000,
+  "train_win": 7007,
+  "val_normal": 3029,
+  "test_win": 19924,
+  "test_rate": 0.030164625577193335
+ },
+ "gecco": {
+  "features": 9,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 2200,
+  "val_normal": 3253,
+  "test_win": 8307,
+  "test_rate": 0.037197544239797764
+ },
+ "smd": {
+  "features": 37,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 34847,
+  "val_normal": 8941,
+  "test_win": 25579,
+  "test_rate": 0.09480433167832988
+ },
+ "psm": {
+  "features": 26,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 10594,
+  "val_normal": 4150,
+  "test_win": 7023,
+  "test_rate": 0.34415491955004984
+ },
+ "exathlon": {
+  "features": 5,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 1924,
+  "val_normal": 2691,
+  "test_win": 7747,
+  "test_rate": 0.13631082999870917
+ },
+ "smap": {
+  "features": 24,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 10439,
+  "val_normal": 2821,
+  "test_win": 40593,
+  "test_rate": 0.1328554184218954
+ },
+ "msl": {
+  "features": 32,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 4514,
+  "val_normal": 1144,
+  "test_win": 7025,
+  "test_rate": 0.12768683274021353
+ },
+ "daphnet": {
+  "features": 9,
+  "seq": 50,
+  "stride": 10,
+  "calib_window": 500,
+  "train_win": 10890,
+  "val_normal": 2780,
+  "test_win": 61243,
+  "test_rate": 0.15863037408356873
+ }
+}

@@ -1,0 +1,5 @@
+=== prepare psm  2026-10-14T08:56:27Z
+[psm] rows=220322 features=26 (dropped 0: []) recordings=3 nan_filled=0 preset=seq50
+[psm]   train {'rows': 105985, 'anomalous_rows': 0, 'anomaly_rate': 0.0, 'recordings': 1}
+[psm]   val   {'rows': 44064, 'anomalous_rows': 1841, 'anomaly_rate': 0.04178, 'recordings': 2}
+[psm]   test  {'rows': 70273, 'anomalous_rows': 22524, 'anomaly_rate': 0.32052, 'recordings': 1}
